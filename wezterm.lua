@@ -11,10 +11,6 @@ if wezterm.config_builder then
 end
 
 -- This is where you actually apply your config choices
--- For example, changing the color scheme:
-
--- Default shell
-config.default_prog = { "pwsh" }
 
 -- Colorscheme
 config.color_scheme = "Catppuccin Mocha"
